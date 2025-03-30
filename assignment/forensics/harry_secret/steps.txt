@@ -1,0 +1,4 @@
+go to https://exif.tools/upload.php and upload img
+scroll down and find a super secret which gives base64 encoded of the first half of the flag
+
+other half of the flag is found in the flag_back.png after editing the image's contrast, saturation etc
