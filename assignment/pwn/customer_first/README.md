@@ -7,3 +7,7 @@ Hint:
 - You serve customers with scanf and gets??
 - Is there a function I can jump to?
 - Which file feature requires me to leak?
+
+files:
+- customerfirst
+- flag.txt
