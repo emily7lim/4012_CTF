@@ -2,12 +2,12 @@ We know many of you are frustrated. That's why we created this portal. Customer 
 
 nc pwn.sigx.net 3104
 
+provided files:
+- customerfirst
+- flag.txt
+
 Hint:
 - Where does the staff work behind the scenes? Ghidra knows
 - You serve customers with scanf and gets??
 - Is there a function I can jump to?
 - Which file feature requires me to leak?
-
-files:
-- customerfirst
-- flag.txt

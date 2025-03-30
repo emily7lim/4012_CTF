@@ -2,7 +2,9 @@ We built a bot that may grant your request. Treat it well.
 
 nc pwn.sigx.net 3106
 
-provided files: sneakpeek and sneakpeek.c
+provided files: 
+- sneakpeek
+- sneakpeek.c
 
 Hint:
 
