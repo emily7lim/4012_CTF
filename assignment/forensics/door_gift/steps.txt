@@ -1,0 +1,1 @@
+go to https://apackets.com/ and upload asset.pcapng then go back to http://chall25.sigx.net:3301 and register username which will give you the flag
