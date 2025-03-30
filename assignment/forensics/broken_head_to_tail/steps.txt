@@ -1,0 +1,1 @@
+upload file to https://hexed.it/ and change the magic byte. Download the new file and rename it to flag.jpg which will result in a new image that consists of the flag
