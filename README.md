@@ -1,2 +1,8 @@
 # 4012_CTF
-software security module in NTU
+
+https://github.com/lmammino/jwt-cracker
+
+npm install --global jwt-cracker
+
+sudo apt-get install netcat
+
