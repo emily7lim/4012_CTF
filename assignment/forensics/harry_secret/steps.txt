@@ -1,4 +1,6 @@
 go to https://exif.tools/upload.php and upload img
 scroll down and find a super secret which gives base64 encoded of the first half of the flag
 
+using cyberchef to decode Q1o0MDY3e04zdjNyX2QwVmJ0, we get CZ4067{N3v3r_d0Vbt
+
 other half of the flag is found in the flag_back.png after editing the image's contrast, saturation etc
